@@ -1,0 +1,24 @@
+/*footer*/
+
+footer {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	background-color: #ffd740;
+ }
+.up
+{
+	color:#5d4037;
+	float: right;
+	padding: 20px;
+
+
+}
+.up:hover{
+	cursor: pointer;
+}
+
+.up:active{
+	color: #ffd740;
+}
